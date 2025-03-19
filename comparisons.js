@@ -49,3 +49,21 @@
 //     : "you are a child";
 
 // console.log(result);
+
+// Compering different types
+
+// let age = 18;
+// let age = 17;
+
+// if ((age = Number(age))) {
+//   age < 18 ? console.log("To young") : console.log("Old enough");
+// }
+
+// const title = "Sifat";
+
+// const result = title == "Sifat" ? "I am Sifat" : "I dont know you!";
+
+// console.log(result);
+
+console.log("5" == 5);
+console.log("5" === 5);
